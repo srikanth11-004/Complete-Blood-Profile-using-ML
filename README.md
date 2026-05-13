@@ -376,7 +376,7 @@ print(f"Platelets: {counts['Platelet']}")
 
 ## Author
 
-**Kiran Kumar**
+**Badavath Srikanth**
 
 ---
 
