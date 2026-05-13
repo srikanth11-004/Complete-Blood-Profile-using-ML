@@ -150,7 +150,6 @@ yolov8n.pt
 predicted_outputs/
 predicted_outputs_2/
 *.pptx
-Complete-Blood-Cell-Count-Dataset-master/
 
 # Spyder project settings
 .spyderproject
